@@ -1,0 +1,19 @@
+Entity
+
+Estacionamento
+
+cod
+capacidade
+horaAbre
+horaFecha
+
+CarrosEstacionados
+
+cod
+placa
+data
+
+Casos de Usos
+
+entrouEstacionamento
+saiuEstacionamento
